@@ -68,3 +68,6 @@ Packing List for my Norway trip
 | Polarizing Filter | Yes | No |
 | USB Cable | Yes | No |
 | Maybe a additional set of memory cards | Yes | No |
+| USB Car Charger | Yes | No |
+| Micro-USB Cables | Yes | No |
+| USB-C Cables | Yes | No |
