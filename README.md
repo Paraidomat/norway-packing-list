@@ -71,6 +71,7 @@ Packing List for my Norway trip
 | Microfiber Cloth | Yes | No |
 | All available batteries + charger | Yes | No |
 | Polarizing Filter | Yes | No |
+| Variable ND Filter | **No** | No |
 | USB Cable | Yes | No |
 | Maybe a additional set of memory cards | Yes | No |
 | USB Car Charger | Yes | No |
