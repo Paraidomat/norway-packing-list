@@ -87,6 +87,9 @@ Packing List for my Norway trip
 | Rain protection for Camera Gear | **No** | No |
 | Batterypack | Yes | No |
 | All needed batteries | Yes | No |
+| Knife | Yes | No |
+| Paracord | Yes | No |
+| Carabiner | Yes | No |
 
 ## Foods and Drinks
 
