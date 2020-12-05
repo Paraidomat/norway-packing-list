@@ -89,6 +89,7 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Water Bottles 2x1l | **No** | No |
 | camping stove | **No** | No | 
 | Fire Starter | Yes | No |
+| Water Container | **No** | No |
 
 ## Car Checklist
 
@@ -106,4 +107,3 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Air Mattress | **No** | No |
 | Sleeping Bag | **No** | No |
 | Bin Bags | **No** | No |
-| Water Container | **No** | No |
