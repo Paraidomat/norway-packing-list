@@ -32,6 +32,7 @@ Packing List for my Norway trip
 | Beard-Brush | Yes | No |
 | Cotton Swabs | Yes | No |
 | Hand cream | Yes | No |
+| Contraception | Yes | No |
 
 ## Medication
 
