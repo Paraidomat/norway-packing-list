@@ -84,6 +84,8 @@ Packing List for my Norway trip
 | Micro USB Flashlight | **No** | No |
 | Headlamp USB | **No** | No |
 | Rain protection for Camera Gear | **No** | No |
+| Batterypack | Yes | No |
+| All needed batteries | Yes | No |
 
 ## Foods and Drinks
 
