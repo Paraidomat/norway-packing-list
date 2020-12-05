@@ -33,6 +33,7 @@ Packing List for my Norway trip
 | Cotton Swabs | Yes | No |
 | Hand cream | Yes | No |
 | Contraception | Yes | No |
+| Sun Cream | Yes | No |
 
 ## Medication
 
