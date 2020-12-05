@@ -82,7 +82,8 @@ Packing List for my Norway trip
 | Micro-USB Cables | Yes | No |
 | USB-C Cables | Yes | No |
 | Micro USB Flashlight | **No** | No |
-| Headlamp | **No** | No |
+| Headlamp USB | **No** | No |
+| Rain protection for Camera Gear | **No** | No |
 
 ## Foods and Drinks
 
