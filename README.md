@@ -28,7 +28,8 @@ Packing List for my Norway trip
 | Deodorant | Yes | No |
 | Towels (Micro Fiber) | Yes | No |
 | Nails Scissors | Yes | No |
-| Brush / Beard-Brush | Yes | No |
+| Brush | Yes | No |
+| Beard-Brush | Yes | No |
 | Cotton Swabs | Yes | No |
 | Hand cream | Yes | No |
 
