@@ -60,6 +60,8 @@ Packing List for my Norway trip
 
 ## Technicalities
 
+> Note: I don't need a powerline adapter.
+
 | Item | Available? | Packed? |
 | ---- | ---------- | ------- |
 | Notebook + Charger | Yes | No |
