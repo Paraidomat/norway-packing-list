@@ -1,57 +1,70 @@
+
 # norway-packing-list
 Packing List for my Norway trip
 
 ## Documents
 
-- Passport / ID
-- Drivers Licence
-- Health Insurance Information
-- Vaccination documents
-- Debit Card / Credit Card
-  - Check if Cards will work in Norway
-  - Emergency-Numbers (+49 - 30 4050 4050)
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Passport / ID | Yes | No |
+| Drivers Licence | Yes | No |
+| Health Insurance Information | Yes | No |
+| Vaccination documents | Yes | No |
+| Debit Card / Credit Card | Yes | No |
+| - Check if Cards will work in Norway | | |
+| - Emergency-Numbers (+49 - 30 4050 4050) | | |
 
 ## Personal Hygiene 
 
-- Toothbrush
-- Toothpaste
-- Dental floss
-- Shower gel / Shampoo / Beard Shampoo
-- Flipflops
-- Deodorant
-- Towels
-- Nails Scissors
-- Brush / Beard-Brush
-- Cotton Swabs
-- Hand cream
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Toothbrush | Yes | No |
+| Toothpaste | Yes | No |
+| Dental floss | Yes | No |
+| Shower gel | Yes | No |
+| Shampoo  | Yes | No |
+| Beard Shampoo | Yes | No |
+| Flipflops | Yes | No | 
+| Deodorant | Yes | No |
+| Towels (Micro Fiber) | Yes | No |
+| Nails Scissors | Yes | No |
+| Brush / Beard-Brush | Yes | No |
+| Cotton Swabs | Yes | No |
+| Hand cream | Yes | No |
 
 ## Medication
 
-- IFAK
-- Blister Pads
-- Paracetamol
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| IFAK | Yes | No |
+| Blister Pads | Yes | No |
+| Paracetamol | Yes | No |
 
 ## Clothing
 
-- n * days + 1:
-  - Shirt
-  - Clean underwear
-  - Clean Socks
-- Woll Socks
-- Thermo underwear (at least 2 sets)
-- Separate laundry bag
-- Hat / Cap
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Shirt (n * days + 1) | Yes | No |
+| Clean underwear (n * days + 1) | Yes | No |
+| Clean Socks (n * days + 1) | Yes | No |
+| Woll Socks | Yes | No |
+| Thermo underwear (at least 2 sets) | Yes | No |
+| Separate laundry bag | Yes | No |
+| Hat | Yes | No |
+| Cap | Yes | No |
 
 ## Technicalities
 
-- Notebook + Charger
-- Camera Backpack
-  - DSLR Body
-  - Wide Angle
-  - Standard Zoom
-  - Tele Zoom
-  - Microfiber Cloth
-  - All available batteries + charger
-  - Polarizing Filter
-  - USB Cable
-  - Maybe a additional set of memory cards
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Notebook + Charger | Yes | No |
+| Camera Backpack | Yes | No |
+| DSLR Body | Yes | No |
+| Wide Angle | Yes | No |
+| Standard Zoom | Yes | No |
+| Tele Zoom | Yes | No |
+| Microfiber Cloth | Yes | No |
+| All available batteries + charger | Yes | No |
+| Polarizing Filter | Yes | No |
+| USB Cable | Yes | No |
+| Maybe a additional set of memory cards | Yes | No |
