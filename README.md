@@ -52,6 +52,11 @@ Packing List for my Norway trip
 | Separate laundry bag | Yes | No |
 | Hat | Yes | No |
 | Cap | Yes | No |
+| Hiking Shoes | **No** | No |
+| Sneakers | Yes | No |
+| Trekking Short "cold" | **No** | No |
+| Trekking Shorts "warm" | Yes | No |
+| Rain Jacket (reimpregnate before leaving) | Yes | No |
 
 ## Technicalities
 
@@ -71,3 +76,33 @@ Packing List for my Norway trip
 | USB Car Charger | Yes | No |
 | Micro-USB Cables | Yes | No |
 | USB-C Cables | Yes | No |
+| Micro USB Flashlight | **No** | No |
+| Headlamp | **No** | No |
+
+## Foods and Drinks
+
+TODO: Find Food alternatives that would work if it rains outside.
+
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Water Bottles 2x1l | **No** | No |
+| camping stove | **No** | No | 
+| Fire Starter | Yes | No |
+
+## Car Checklist
+
+| Item | Available? | Packed / Checked? |
+| ---- | ---------- | ----------------- |
+| Tire Pressure | Yes | No |
+| Oil | Yes | No |
+| Wipers | Yes | No |
+| Wiperfluid | Yes | No |
+
+## Sleeping / Accomendation
+
+| Item | Available | Packed? |
+| ---- | --------- | ------- |
+| Air Mattress | **No** | No |
+| Sleeping Bag | **No** | No |
+| Bin Bags | **No** | No |
+| Water Container | **No** | No |
