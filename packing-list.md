@@ -1,5 +1,5 @@
 
-# norway-packing-list
+# packing-list
 Packing List for my Norway trip
 
 ## Documents
