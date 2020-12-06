@@ -44,6 +44,7 @@ Packing List for my Norway trip
 | Paracetamol | Yes | No |
 | Diarrhea Medication | Yes | No |
 | Bepanthen | **No** | No |
+| Instant Icepack | **No** | No |
 
 ## Clothing
 
