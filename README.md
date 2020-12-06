@@ -42,6 +42,8 @@ Packing List for my Norway trip
 | IFAK | Yes | No |
 | Blister Pads | Yes | No |
 | Paracetamol | Yes | No |
+| Diarrhea Medication | Yes | No |
+| Bepanthen | **No** | No |
 
 ## Clothing
 
