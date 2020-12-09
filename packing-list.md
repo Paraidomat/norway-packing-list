@@ -55,7 +55,7 @@ Packing List for my Norway trip
 | Shirt (n * days + 1) | Yes | No |
 | Clean underwear (n * days + 1) | Yes | No |
 | Clean Socks (n * days + 1) | Yes | No |
-| Woll Socks | Yes | No |
+| Wool Socks | Yes | No |
 | Thermo underwear (at least 2 sets) | Yes | No |
 | Separate laundry bag | Yes | No |
 | Hat | Yes | No |
