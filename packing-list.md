@@ -34,6 +34,8 @@ Packing List for my Norway trip
 | Hand cream | Yes | No |
 | Contraception | Yes | No |
 | Sun Cream | Yes | No |
+| Degradeable Wet Wipes | No | No |
+| Mosquito repellent | No | No |
 
 ## Medication
 
