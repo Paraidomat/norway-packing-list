@@ -124,3 +124,4 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Air Mattress | **No** | No |
 | Sleeping Bag | **No** | No |
 | Bin Bags | **No** | No |
+| bivouac sack | **No** | No |
