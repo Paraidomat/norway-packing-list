@@ -96,6 +96,7 @@ Packing List for my Norway trip
 | Paracord | Yes | No |
 | Carabiner | Yes | No |
 | Small Toolset | Yes | No |
+| Water resistant container | **No** | Yes |
 
 ## Foods and Drinks
 
