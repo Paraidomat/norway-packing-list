@@ -6,5 +6,5 @@
 
 ## Stabkirchen
 
-https://goo.gl/maps/QL8dqBZU8CDfV4XX8
-https://goo.gl/maps/dFrZGDhpgdCLf6pM8
+- https://goo.gl/maps/QL8dqBZU8CDfV4XX8
+- https://goo.gl/maps/dFrZGDhpgdCLf6pM8
