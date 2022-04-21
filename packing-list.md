@@ -105,7 +105,8 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Item | Available? | Packed? |
 | ---- | ---------- | ------- |
 | Water Bottles 2x1l | **No** | No |
-| camping stove | **No** | No | 
+| camping stove | Yes | No | 
+| Coffee maker | **No** | No |
 | Fire Starter | Yes | No |
 | Water Container | **No** | No |
 
