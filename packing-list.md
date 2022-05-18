@@ -47,6 +47,7 @@ Packing List for my Norway trip
 | Diarrhea Medication | Yes | No |
 | Bepanthen | **No** | No |
 | Instant Icepack | **No** | No |
+| Fenistil | **No** | No |
 
 ## Clothing
 
