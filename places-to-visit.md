@@ -9,7 +9,18 @@
 
 - [Skywalk](https://www.geirangerfjord.no/geiranger-skywalk-dalsnibba-3)
 
-
 ## Loen
 
 - [Ideas](https://www.visitnorway.de/reiseziele/fjord-norwegen/nordfjord/loen-skylift/)
+
+## Sogndal
+
+- [fjordnorway](https://www.fjordnorway.com/de/reiseziele/sogndal)
+
+## Flam
+
+- [fjordnorway](https://www.fjordnorway.com/de/reiseziele/flam)
+
+## Bergen
+
+- [Climbing Gym](https://bergenklatreklubb.no/klatrehall/vestveggen/)
