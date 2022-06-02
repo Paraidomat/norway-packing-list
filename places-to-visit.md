@@ -24,3 +24,4 @@
 ## Bergen
 
 - [Climbing Gym](https://bergenklatreklubb.no/klatrehall/vestveggen/)
+- [cragdatabase](https://ute.bergenklatreklubb.no/forere/cragdatabase/cragdatabase.php)
