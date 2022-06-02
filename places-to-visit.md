@@ -8,3 +8,8 @@
 ## Geiranger
 
 - [Skywalk](https://www.geirangerfjord.no/geiranger-skywalk-dalsnibba-3)
+
+
+## Loen
+
+- [Ideas](https://www.visitnorway.de/reiseziele/fjord-norwegen/nordfjord/loen-skylift/)
