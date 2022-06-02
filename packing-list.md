@@ -71,6 +71,8 @@ Packing List for my Norway trip
 
 > Note: I don't need a powerline adapter.
 
+### Camera Gear 
+
 | Item | Available? | Packed? |
 | ---- | ---------- | ------- |
 | Notebook + Charger | Yes | No |
@@ -83,21 +85,31 @@ Packing List for my Norway trip
 | All available batteries + charger | Yes | No |
 | Polarizing Filter | Yes | No |
 | Variable ND Filter | **No** | No |
-| USB Cable | Yes | No |
 | Maybe a additional set of memory cards | Yes | No |
 | USB Car Charger | Yes | No |
+| Rain protection for Camera Gear | **No** | No |
+
+### Cabling
+
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
 | Micro-USB Cables | Yes | No |
 | USB-C Cables | Yes | No |
 | Micro USB Flashlight | **No** | No |
 | Headlamp USB | **No** | No |
-| Rain protection for Camera Gear | **No** | No |
 | Batterypack | Yes | No |
 | All needed batteries | Yes | No |
 | Knife | Yes | No |
 | Paracord | Yes | No |
-| Carabiner | Yes | No |
 | Small Toolset | Yes | No |
 | Water resistant container | **No** | Yes |
+
+### Climbing Gear
+
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Harness | Yes | No |
+| Shoes | Yes | No |
 
 ## Foods and Drinks
 
