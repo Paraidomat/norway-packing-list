@@ -61,7 +61,7 @@ Packing List for my Norway trip
 | Separate laundry bag | Yes | No |
 | Hat | Yes | No |
 | Cap | Yes | No |
-| Hiking Shoes | **No** | No |
+| Hiking Shoes | Yes | No |
 | Sneakers | Yes | No |
 | Trekking Short "cold" | **No** | No |
 | Trekking Shorts "warm" | Yes | No |
