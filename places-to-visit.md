@@ -16,6 +16,7 @@
 ## Loen
 
 - [Ideas](https://www.visitnorway.de/reiseziele/fjord-norwegen/nordfjord/loen-skylift/)
+- [Klettersteig](https://worlderingaround.com/en/travel-blog/via-ferrata-loen-norway)
 
 ## Sogndal
 
