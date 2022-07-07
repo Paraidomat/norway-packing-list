@@ -46,8 +46,8 @@ Packing List for my Norway trip
 | Paracetamol | Yes | No |
 | Diarrhea Medication | Yes | No |
 | Bepanthen | **No** | No |
-| Instant Icepack | **No** | No |
-| Fenistil | **No** | No |
+| Instant Icepack | Yes | No |
+| Fenistil | Yes | No |
 
 ## Clothing
 
@@ -63,7 +63,7 @@ Packing List for my Norway trip
 | Cap | Yes | No |
 | Hiking Shoes | Yes | No |
 | Sneakers | Yes | No |
-| Trekking Short "cold" | **No** | No |
+| Trekking Short "cold" | Yes | No |
 | Trekking Shorts "warm" | Yes | No |
 | Rain Jacket (reimpregnate before leaving) | Yes | No |
 
@@ -95,8 +95,7 @@ Packing List for my Norway trip
 | ---- | ---------- | ------- |
 | Micro-USB Cables | Yes | No |
 | USB-C Cables | Yes | No |
-| Micro USB Flashlight | **No** | No |
-| Headlamp USB | **No** | No |
+| Headlamp USB | Yes | No |
 | Batterypack | Yes | No |
 | All needed batteries | Yes | No |
 | Knife | Yes | No |
@@ -110,6 +109,8 @@ Packing List for my Norway trip
 | ---- | ---------- | ------- |
 | Harness | Yes | No |
 | Shoes | Yes | No |
+| Helmet | Yes | No |
+| Via Ferrata Kit | Yes | No |
 
 ## Foods and Drinks
 
@@ -119,9 +120,8 @@ TODO: Find Food alternatives that would work if it rains outside.
 | ---- | ---------- | ------- |
 | Water Bottles 2x1l | **No** | No |
 | camping stove | Yes | No | 
-| Coffee maker | **No** | No |
+| Coffee maker | Yes | No |
 | Fire Starter | Yes | No |
-| Water Container | **No** | No |
 
 ## Car Checklist
 
@@ -136,8 +136,8 @@ TODO: Find Food alternatives that would work if it rains outside.
 
 | Item | Available | Packed? |
 | ---- | --------- | ------- |
-| Air Mattress | **No** | No |
-| Sleeping Bag | **No** | No |
-| Bin Bags | **No** | No |
-| bivouac sack | **No** | No |
-| Hammock | **No** | No |
+| Air Mattress | Yes | No |
+| Sleeping Bag | Yes | No |
+| Bin Bags | Yes | No |
+| bivouac sack | Yes | No |
+| Hammock | Yes | No |
