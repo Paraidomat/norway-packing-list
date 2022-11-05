@@ -153,6 +153,7 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Dishtowel (at least 3) | Yes | No |
 | Bottled water (6x1.5l) | Yes | No |
 | Trivet | No | No |
+| Bag-Close Thingies (BEVARA IKEA) | Yes | No |
 
 ## Car Checklist
 
