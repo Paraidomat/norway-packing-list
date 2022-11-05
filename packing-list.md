@@ -25,7 +25,7 @@ Packing List for the next holiday
 | Beard Shampoo | Yes | No |
 | Flipflops | Yes | No | 
 | Deodorant | Yes | No |
-| Towels (Micro Fiber) | Yes | No |
+| Towels (Micro Fiber)<sup>1</sup>| Yes | No |
 | Nails Scissors | Yes | No |
 | Brush | Yes | No |
 | Beard-Brush | Yes | No |
@@ -35,6 +35,8 @@ Packing List for the next holiday
 | Sun Cream | Yes | No |
 | Degradeable Wet Wipes | No | No |
 | Mosquito repellent | No | No |
+
+<sup>1)</sup>Also useful when staying in Hotels, so you can use the showers in climbing gyms, etc.
 
 ## Medication
 
@@ -111,13 +113,22 @@ Packing List for the next holiday
 | Item | Available? | Packed? |
 | ---- | ---------- | ------- |
 | Harness | Yes | No |
-| Shoes | Yes | No |
 | Helmet | Yes | No |
+| Shoes | Yes | No |
+| Belay / Rappel Device | Yes | No |
+| Chalkbag | Yes | No |
+| Sling 60cm | Yes | No |
+| Sling 90cm | Yes | No |
+| Sling 120cm | Yes | No |
+| 4 Screwgate Carabiners | Yes | No |
+| 4 Non-Locking Carabiners | Yes | No |
+| Topo | Yes | No |
 | Via Ferrata Kit | Yes | No |
 | Rope | Yes | No |
 | Quickdraws (11pcs) | Yes | No |
 
-TODO: Add Alpine-Climbing gear from list here.
+Also check [here](https://www.bergtour-online.de/wp-content/uploads/Packlisten/Alpinklettern-Packliste.pdf)
+and [here](https://www.ortovox.com/safety-academy-lab-rock/fileadmin/user_upload/Downloads/180214_Packliste_SG.pdf)
 
 ### Hiking Gear
 
