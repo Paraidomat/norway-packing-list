@@ -150,7 +150,7 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Coffee maker | Yes | No |
 | Fire Starter | Yes | No |
 | Scissors | Yes | No |
-| Dishtowel | Yes | No |
+| Dishtowel (at least 3) | Yes | No |
 | Bottled water (6x1.5l) | Yes | No |
 | Trivet | No | No |
 
