@@ -35,6 +35,7 @@ Packing List for the next holiday
 | Sun Cream | Yes | No |
 | Degradeable Wet Wipes | No | No |
 | Mosquito repellent | No | No |
+| Cotton Swabs | Yes | No |
 
 <sup>1)</sup>Also useful when staying in Hotels, so you can use the showers in climbing gyms, etc.
 
