@@ -1,6 +1,5 @@
-
 # packing-list
-Packing List for my Norway trip
+Packing List for the next holiday 
 
 ## Documents
 
@@ -11,7 +10,7 @@ Packing List for my Norway trip
 | Health Insurance Information | Yes | No |
 | Vaccination documents | Yes | No |
 | Debit Card / Credit Card | Yes | No |
-| - Check if Cards will work in Norway | | |
+| - Check if Cards will work in destination country | | |
 | - Emergency-Numbers (+49 - 30 4050 4050) | | |
 
 ## Personal Hygiene 
@@ -45,9 +44,10 @@ Packing List for my Norway trip
 | Blister Pads | Yes | No |
 | Paracetamol | Yes | No |
 | Diarrhea Medication | Yes | No |
-| Bepanthen | **No** | No |
+| Bepanthen / Kletterretter | Yes | No |
 | Instant Icepack | Yes | No |
 | Fenistil | Yes | No |
+| Fosfomycin | Yes | No |
 
 ## Clothing
 
@@ -69,7 +69,9 @@ Packing List for my Norway trip
 
 ## Technicalities
 
-> Note: I don't need a powerline adapter.
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Powerline Adapter | No | No |
 
 ### Camera Gear 
 
@@ -95,6 +97,7 @@ Packing List for my Norway trip
 | ---- | ---------- | ------- |
 | Micro-USB Cables | Yes | No |
 | USB-C Cables | Yes | No |
+| iPhone Cable | Yes | No |
 | Headlamp USB | Yes | No |
 | Batterypack | Yes | No |
 | All needed batteries | Yes | No |
@@ -111,6 +114,18 @@ Packing List for my Norway trip
 | Shoes | Yes | No |
 | Helmet | Yes | No |
 | Via Ferrata Kit | Yes | No |
+| Rope | Yes | No |
+| Quickdraws (11pcs) | Yes | No |
+
+TODO: Add Alpine-Climbing gear from list here.
+
+### Hiking Gear
+
+| Item | Available? | Packed? |
+| ---- | ---------- | ------- |
+| Backpack | Yes | No |
+
+TODO: Update this.
 
 ## Foods and Drinks
 
@@ -118,10 +133,15 @@ TODO: Find Food alternatives that would work if it rains outside.
 
 | Item | Available? | Packed? |
 | ---- | ---------- | ------- |
-| Water Bottles 2x1l | **No** | No |
+| Water Bottles 2x1l | Yes | No |
 | camping stove | Yes | No | 
+| camping stove gas (check level) | Yes | No |
 | Coffee maker | Yes | No |
 | Fire Starter | Yes | No |
+| Scissors | Yes | No |
+| Dishtowel | Yes | No |
+| Bottled water (6x1.5l) | Yes | No |
+| Trivet | No | No |
 
 ## Car Checklist
 
@@ -131,6 +151,7 @@ TODO: Find Food alternatives that would work if it rains outside.
 | Oil | Yes | No |
 | Wipers | Yes | No |
 | Wiperfluid | Yes | No |
+| Car Fridge | Yes | No |
 
 ## Sleeping / Accomendation
 
